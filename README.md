@@ -1,2 +1,3 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+## Calculadora de IMC feita em Dart
+
+Programa para pegar altura e peso de uma pessoa para mostrar o IMC e sua classificação de acordo com o valor do imc.
